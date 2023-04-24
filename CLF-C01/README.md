@@ -18,4 +18,4 @@ Passed as of 2023-04-21.
 
 - [Credly](https://www.credly.com/badges/29cd0f93-57b2-4f60-a383-6f1f535c6b0d/public_url)
 
-(https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+![CLF-C01 badge](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
